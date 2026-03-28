@@ -1,4 +1,4 @@
-# GMX Discount Code: PRO — The Only Way to Get 10% Off Every Trade
+# GMX Referral Code: PRO — The Only Way to Get 10% Off Every Trade
 
 [![Discount](https://img.shields.io/badge/Fee_Discount-10%25-brightgreen)](https://app.gmx.io/#/trade/?ref=PRO)
 [![Network](https://img.shields.io/badge/Network-Arbitrum-blue)](https://app.gmx.io/#/trade/?ref=PRO)
@@ -10,44 +10,44 @@
 | Field | Details |
 |---|---|
 | **Referral Code** | `PRO` |
-| **Discount** | 10% off trading fees |
+| **Fee Discount** | 10% off trading fees |
 | **Tier** | Tier 2 (maximum trader discount) |
 | **Networks** | Arbitrum + Avalanche |
 | **Activate** | [app.gmx.io/#/trade/?ref=PRO](https://app.gmx.io/#/trade/?ref=PRO) |
 
-> Enter code **PRO** at [app.gmx.io/#/referrals](https://app.gmx.io/#/referrals) or use the direct link above — your discount applies instantly to every position you open or close.
+> Enter referral code **PRO** at [app.gmx.io/#/referrals](https://app.gmx.io/#/referrals) or use the direct link above — your fee discount applies instantly to every position you open or close.
 
 ---
 
 ## TL;DR
 
-- **Code PRO is Tier 2** — the highest discount tier available to traders on GMX, cutting position fees by a flat 10% on every trade across both Arbitrum and Avalanche
+- **Referral code PRO is Tier 2** — the highest discount tier available to traders on GMX, cutting position fees by a flat 10% on every trade across both Arbitrum and Avalanche
 - **It applies to open and close fees** (0.05%–0.07% depending on the pair) — meaning if you're actively trading, even moderate volume adds up to real savings fast
-- **One-time setup, permanent discount** — enter the code once, connect your wallet, and every subsequent trade is automatically discounted until you choose to switch
+- **One-time setup, permanent discount** — enter the referral code once, connect your wallet, and every subsequent trade is automatically discounted until you choose to switch
 
 ---
 
-## Why Most GMX Codes Only Give 5%
+## Why Most GMX Referral Codes Only Give 5%
 
 GMX's referral system runs on a tiered model, and understanding it is the difference between leaving money on the table and actually maximizing your edge. Here's how it breaks down:
 
 **Tier 1 — The Default (5% discount)**
 
-Anyone can create a referral code and share it. If you use one of these codes, you get a 5% rebate on your trading fees. The code owner needs to have accumulated a meaningful volume history, but the entry bar is low. Most codes floating around Twitter threads and Telegram groups are Tier 1.
+Anyone can create a referral code and share it. If you use one of these referral codes, you get a 5% rebate on your trading fees. The code owner needs to have accumulated a meaningful volume history, but the entry bar is low. Most referral codes floating around Twitter threads and Telegram groups are Tier 1.
 
 **Tier 2 — Earned Status (10% discount)**
 
-To reach Tier 2, a referral account must have referred a minimum of **15 unique traders** who have collectively generated significant trading volume on the protocol. This is not something most casual participants hit. The result? You get double the discount — 10% instead of 5%. Code **PRO** is a verified Tier 2 code.
+To reach Tier 2, a referral account must have referred a minimum of **15 unique traders** who have collectively generated significant trading volume on the protocol. This is not something most casual participants hit. The result? You get double the fee discount — 10% instead of 5%. Referral code **PRO** is a verified Tier 2 code.
 
 **Tier 3 — Protocol Reserved**
 
 Tier 3 is reserved for institutional partners and entities that have driven exceptional volume and user acquisition at scale. It is not accessible through a standard referral code. For all practical purposes, Tier 2 is the maximum discount any individual trader can unlock.
 
-The math is simple: if you're going to enter a referral code at all (and you should — there's zero downside), you want Tier 2. That means code **PRO**.
+The math is simple: if you're going to enter a referral code at all (and you should — there's zero downside), you want Tier 2. That means referral code **PRO**.
 
 ---
 
-## Activate PRO in 30 Seconds
+## Activate Referral Code PRO in 30 Seconds
 
 No complicated setup, no approval process. Here's the full flow:
 
@@ -57,13 +57,13 @@ No complicated setup, no approval process. Here's the full flow:
 
 3. **Find the "Enter Referral Code" box** — it's in the Traders section on the left side of the referral dashboard
 
-4. **Type `PRO` and click Submit** — the transaction will prompt a signature (free, no gas required for the code entry itself)
+4. **Type `PRO` and click Submit** — the transaction will prompt a signature (free, no gas required for the referral code entry itself)
 
-5. **Confirm your discount is active** — you'll see the code PRO listed as your active referral code with Tier 2 status displayed
+5. **Confirm your discount is active** — you'll see referral code PRO listed as your active code with Tier 2 status displayed
 
-6. **Start trading** — open your first position via [app.gmx.io/#/trade/?ref=PRO](https://app.gmx.io/#/trade/?ref=PRO) and the discount is applied automatically at the protocol level
+6. **Start trading** — open your first position via [app.gmx.io/#/trade/?ref=PRO](https://app.gmx.io/#/trade/?ref=PRO) and the fee discount is applied automatically at the protocol level
 
-That's it. No recurring actions needed. The discount persists across sessions, across browser restarts, and across both networks (you'll need to set the code on each chain if you trade both Arbitrum and Avalanche).
+That's it. No recurring actions needed. The discount persists across sessions, across browser restarts, and across both networks (you'll need to set the referral code on each chain if you trade both Arbitrum and Avalanche).
 
 > Trade smarter from your first position: [app.gmx.io/#/trade/?ref=PRO](https://app.gmx.io/#/trade/?ref=PRO)
 
@@ -71,19 +71,19 @@ That's it. No recurring actions needed. The discount persists across sessions, a
 
 ## Every Fee That Gets Discounted
 
-Let's be precise here, because GMX has several different fee types and the referral discount does not apply to all of them. Knowing which fees are affected helps you understand exactly where your savings land.
+Let's be precise here, because GMX has several different fee types and the referral code discount does not apply to all of them. Knowing which fees are affected helps you understand exactly where your savings land.
 
-### Fees the PRO code discounts:
+### Fees the PRO referral code discounts:
 
 **Position fees (open/close)** — This is the big one. Every time you open or close a leveraged position, GMX charges a fee based on the notional position size:
 - Standard pairs: approximately 0.07% to open, 0.07% to close
 - Select GM pool pairs: as low as 0.05% on some assets in GMX V2
 
-The PRO code takes 10% off these fees. On a $50,000 position, that's a saving of $3.50 to $7.00 per round trip. Multiply that across a week of active trading and you're saving meaningful amounts of real money.
+Referral code PRO takes 10% off these fees. On a $50,000 position, that's a saving of $3.50 to $7.00 per round trip. Multiply that across a week of active trading and you're saving meaningful amounts of real money.
 
-**Swap fees** — When you use GMX's swap interface (not perps), a position fee still applies. The referral discount also reduces this fee component.
+**Swap fees** — When you use GMX's swap interface (not perps), a position fee still applies. The referral code discount also reduces this fee component.
 
-### Fees the PRO code does NOT affect:
+### Fees the PRO referral code does NOT affect:
 
 **Borrow fees (funding)** — GMX charges an ongoing hourly borrow fee for holding leveraged positions. This is a dynamic rate based on pool utilization and is separate from the execution fee. Referral codes have no impact on borrow rates.
 
@@ -102,9 +102,9 @@ Let's run through some concrete scenarios so you can see where the savings stack
 ### The baseline math
 
 Standard position fee on GMX: ~0.07% per side (open + close = ~0.14% round trip)
-With PRO code (10% off): ~0.063% per side (~0.126% round trip)
+With referral code PRO (10% off): ~0.063% per side (~0.126% round trip)
 
-| Position Size | Without Code | With PRO Code | Savings per Round Trip |
+| Position Size | Without Referral Code | With PRO Referral Code | Savings per Round Trip |
 |---|---|---|---|
 | $10,000 | $14.00 | $12.60 | **$1.40** |
 | $25,000 | $35.00 | $31.50 | **$3.50** |
@@ -122,7 +122,7 @@ The real value isn't in any single trade — it's the compounding effect of cons
 
 That's real alpha. Not from being smarter about which direction to trade — just from having the right referral code active from day one.
 
-For higher-volume traders doing $500k+ notional weekly, the annual savings figure climbs into the thousands. A professional trading desk running GMX positions would be leaving significant capital on the floor by not running a Tier 2 code.
+For higher-volume traders doing $500k+ notional weekly, the annual savings figure climbs into the thousands. A professional trading desk running GMX positions would be leaving significant capital on the floor by not running a Tier 2 referral code.
 
 ---
 
@@ -140,7 +140,7 @@ V2 added support for synthetic markets — you can now trade assets like DOGE, L
 
 **Tiered fee structure**
 
-Position fees in V2 are slightly more dynamic. Some pairs have lower fees (closer to 0.05%) while others sit at the traditional 0.07%. The referral discount applies uniformly regardless of which pair you're trading, so PRO gives you 10% off whatever the base rate is for that market.
+Position fees in V2 are slightly more dynamic. Some pairs have lower fees (closer to 0.05%) while others sit at the traditional 0.07%. The referral code discount applies uniformly regardless of which pair you're trading, so PRO gives you 10% off whatever the base rate is for that market.
 
 **Oracle-based price feeds with keepers**
 
@@ -178,7 +178,7 @@ GMX operates on both Arbitrum (Layer 2 on Ethereum) and Avalanche (its own L1). 
 
 **Best for:** Avalanche-native traders, AVAX holders, anyone already running on that ecosystem.
 
-**Remember:** You need to set the PRO referral code separately on each chain if you want the discount on both networks.
+**Remember:** You need to set the PRO referral code separately on each chain if you want the fee discount on both networks.
 
 ---
 
@@ -240,7 +240,7 @@ Where Drift wins: speed, Solana ecosystem integration, cross-margin efficiency.
 
 ### Bottom line
 
-GMX is not the newest or flashiest option anymore, but it has earned trust through multiple years of operating without catastrophic failure. For traders who prioritize security, oracle-based pricing, and deep Arbitrum DeFi integration, GMX remains the most dependable on-chain perp platform. The referral program with Tier 2 codes like PRO is also more established and transparent than many newer competitors.
+GMX is not the newest or flashiest option anymore, but it has earned trust through multiple years of operating without catastrophic failure. For traders who prioritize security, oracle-based pricing, and deep Arbitrum DeFi integration, GMX remains the most dependable on-chain perp platform. The referral program with Tier 2 referral codes like PRO is also more established and transparent than many newer competitors.
 
 ---
 
@@ -275,60 +275,60 @@ Unlike GLP in V1, GM pools are isolated — you're only exposed to the specific 
 
 Already have a different referral code active? Here's what you need to know.
 
-**You can change your code at any time.** There is no lock-in period, no penalty, and no fee for switching. Go to [app.gmx.io/#/referrals](https://app.gmx.io/#/referrals), navigate to the Traders tab, and submit a new code.
+**You can change your referral code at any time.** There is no lock-in period, no penalty, and no fee for switching. Go to [app.gmx.io/#/referrals](https://app.gmx.io/#/referrals), navigate to the Traders tab, and submit a new referral code.
 
-**The new code activates immediately.** Your next trade will use the new discount tier. If you were previously on a Tier 1 code getting 5%, switching to PRO immediately upgrades you to 10%.
+**The new referral code activates immediately.** Your next trade will use the new discount tier. If you were previously on a Tier 1 referral code getting 5%, switching to PRO immediately upgrades you to 10%.
 
-**Important:** The code only applies to the network you're currently connected to. If you trade on both Arbitrum and Avalanche, you'll want to switch on each network separately.
+**Important:** The referral code only applies to the network you're currently connected to. If you trade on both Arbitrum and Avalanche, you'll want to switch on each network separately.
 
-**Historical trades are unaffected.** Only future trades after the switch benefit from the new tier. There's no retroactive rebate for past trades — another reason to enter the right code from the start.
+**Historical trades are unaffected.** Only future trades after the switch benefit from the new tier. There's no retroactive rebate for past trades — another reason to enter the right referral code from the start.
 
 ---
 
 ## FAQ
 
-**Q: Is the PRO code really Tier 2? How can I verify?**
+**Q: Is the PRO referral code really Tier 2? How can I verify?**
 
-Yes. You can verify any code's tier status directly on the GMX referral dashboard at [app.gmx.io/#/referrals](https://app.gmx.io/#/referrals). After entering PRO and submitting, the dashboard will display the tier level. Tier 2 means 10% discount — this is a protocol-enforced parameter, not a claim that can be faked.
+Yes. You can verify any referral code's tier status directly on the GMX referral dashboard at [app.gmx.io/#/referrals](https://app.gmx.io/#/referrals). After entering PRO and submitting, the dashboard will display the tier level. Tier 2 means 10% fee discount — this is a protocol-enforced parameter, not a claim that can be faked.
 
-**Q: Does the code work on both GMX V1 and V2?**
+**Q: Does the referral code work on both GMX V1 and V2?**
 
-Yes. The referral system spans both versions. Whether you're trading on the V2 interface (which is the default) or accessing V1 pools, the PRO code's discount applies.
+Yes. The referral system spans both versions. Whether you're trading on the V2 interface (which is the default) or accessing V1 pools, the PRO referral code's discount applies.
 
 **Q: Does it cost anything to enter a referral code?**
 
-No ETH, AVAX, or tokens are charged for entering a referral code. The code entry requires a wallet signature which may trigger a gas-free signing request depending on your wallet, but there's no cost.
+No ETH, AVAX, or tokens are charged for entering a referral code. The referral code entry requires a wallet signature which may trigger a gas-free signing request depending on your wallet, but there's no cost.
 
 **Q: Does the 10% discount apply to my borrow fees?**
 
 No. Borrow fees (the hourly rate charged on open leveraged positions based on pool utilization) are not affected by the referral code. The 10% applies specifically to position open/close fees. See the "Every Fee That Gets Discounted" section for the full breakdown.
 
-**Q: Can I use the PRO code if I'm in a restricted jurisdiction?**
+**Q: Can I use the PRO referral code if I'm in a restricted jurisdiction?**
 
 GMX is a decentralized protocol with no KYC or account system — access is wallet-based. The referral code system has no jurisdictional enforcement built into it. That said, you are responsible for ensuring your use of DeFi protocols complies with your local laws and regulations.
 
-**Q: What happens to my discount if PRO somehow gets downgraded from Tier 2?**
+**Q: What happens to my discount if referral code PRO somehow gets downgraded from Tier 2?**
 
-This is theoretically possible but practically very unlikely given the code's established volume history. If a code's tier were to change, the discount would update automatically on your next trade. You can monitor the tier status at any time on the referrals dashboard.
+This is theoretically possible but practically very unlikely given the code's established volume history. If a referral code's tier were to change, the discount would update automatically on your next trade. You can monitor the tier status at any time on the referrals dashboard.
 
 **Q: Is there any benefit to creating my own referral code instead?**
 
-If you create your own code and share it with others, you earn a portion of their trading fees as rebates. The owner of a Tier 2 code earns 20% of their referred traders' fees. However, if you're just a trader (not trying to run a referral operation), using the PRO code gives you the maximum discount without any effort.
+If you create your own referral code and share it with others, you earn a portion of their trading fees as rebates. The owner of a Tier 2 referral code earns 20% of their referred traders' fees. However, if you're just a trader (not trying to run a referral operation), using referral code PRO gives you the maximum fee discount without any effort.
 
 **Q: Does using a referral code affect my trading in any other way?**
 
-No. The code only applies the fee discount. It has no effect on your available leverage, liquidation mechanics, order types, positions, or anything else about how the protocol functions. It's purely a fee reduction.
+No. The referral code only applies the fee discount. It has no effect on your available leverage, liquidation mechanics, order types, positions, or anything else about how the protocol functions. It's purely a fee reduction.
 
 ---
 
-## Start Trading With the Maximum Discount
+## Start Trading With the Maximum Referral Code Discount
 
-There's no reason to leave 10% of your trading fees on the floor. Code PRO is Tier 2-verified, takes 30 seconds to activate, and costs nothing.
+There's no reason to leave 10% of your trading fees on the floor. Referral code PRO is Tier 2-verified, takes 30 seconds to activate, and costs nothing.
 
 [![Activate PRO Now](https://img.shields.io/badge/Activate_PRO_Now-10%25_Discount-brightgreen?style=for-the-badge)](https://app.gmx.io/#/trade/?ref=PRO)
 
 **Direct link:** [app.gmx.io/#/trade/?ref=PRO](https://app.gmx.io/#/trade/?ref=PRO)
 
-Or set the code manually at the referrals dashboard: [app.gmx.io/#/referrals](https://app.gmx.io/#/referrals) — enter `PRO` in the Traders section.
+Or set the referral code manually at the referrals dashboard: [app.gmx.io/#/referrals](https://app.gmx.io/#/referrals) — enter `PRO` in the Traders section.
 
-Every trade you make without this active is a trade where you're paying more than you have to. Activate it now.
+Every trade you make without this active is a trade where you're paying more than you have to. Activate referral code PRO now.
