@@ -5,6 +5,9 @@
 [![Network](https://img.shields.io/badge/Network-Avalanche-red)](https://app.gmx.io/#/trade/?ref=PRO)
 [![Tier](https://img.shields.io/badge/Tier-2_(Max)-orange)](https://app.gmx.io/#/trade/?ref=PRO)
 
+> **[Visit our detailed guide with fee tables, FAQ, and more →](https://gmx-referral-code.vercel.app/)**
+
+
 ## Quick Reference
 
 | Field | Details |
@@ -332,3 +335,16 @@ There's no reason to leave 10% of your trading fees on the floor. Referral code 
 Or set the referral code manually at the referrals dashboard: [app.gmx.io/#/referrals](https://app.gmx.io/#/referrals) — enter `PRO` in the Traders section.
 
 Every trade you make without this active is a trade where you're paying more than you have to. Activate referral code PRO now.
+
+---
+
+## More Referral Codes
+
+| Platform | Referral Code | Link |
+|----------|--------------|------|
+| [Binance](https://binance-referral-code-btcbonus.vercel.app/) | BTCBONUS | 20% Fee Discount |
+| [Bybit](https://bybit-referral-code.vercel.app/) | web3 | Up to $30,000 |
+| [MEXC](https://mexc-referral-code.vercel.app/) | mexc-btcbonus | Zero Maker Fees |
+| [OKX](https://okx-referral-code.vercel.app/) | DEFAULTREF | Fee Discounts |
+| [Bitget](https://bitget-referral-code.vercel.app/) | 7N7PR4 | Copy Trading |
+| [Hyperliquid](https://hyperliquid-referral-code-awd.vercel.app/) | AWD | 4% Fee Discount |
